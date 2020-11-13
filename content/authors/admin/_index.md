@@ -73,8 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I’m a first year PhD student in the Systems Research Group (SRG) at the Department of Computer Science and Technology (The Computer Laboratory), under the supervision of Prof. Richard Mortier. I am a member of Clare College. 
+I’m a first year PhD student in the Systems Research Group (SRG) at the Department of Computer Science and Technology (The Computer Laboratory), under the supervision of Prof. Richard Mortier. I am a member of Clare College. The focus of my research is on building self-scaling network services on next generation infrastructure (IoT/5G/edge), leveraging lightweight virtualization techniques and distributed tracing.
 
-The focus of my research is on building self-scaling network services on next generation infrastructure (IoT/5G/edge), leveraging lightweight virtualization techniques and distributed tracing.
+Before joining the Computer Lab, I co-founded several projects for empowering engineering students in Syria. including the award-winning education enterprise: Wikilogia. I also have deep passion and interest in entrepreneurship, smart cities and the convergence of the IT and telecom worlds and their implications for both developed and developing world.
 
 
