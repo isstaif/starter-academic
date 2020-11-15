@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *European Performance Engineering Workshop*
+publication_short: In *EPEW 2018*
 
 abstract: We report our experience using PRISM, a leading quantitative verification engine, to formulate a performance model of Apache Cassandra, a popular NoSQL database, under a simple form of hybrid operational/analytical workload, since such heterogeneous workloads have shown to have significant implications for the deployment and elastic strategies of these databases. Some current literature suggest that, compared to classical performance modelling tools, quantitative verification provides a more rigorous analysis framework. We aim to explore the effectiveness and applicability of this approach in practice which we identify as relevant to our use case. We present a partial model of a single Cassandra node that predicts its maximum throughput under various system and workload parameters and validate this model experimentally. Furthermore, we show the limitations of extending this model using PRISM to address other interesting properties, identifying the need for scalable analytical modelling approaches for realistic highly concurrent systems under heterogeneous workloads. 
 
@@ -26,17 +26,17 @@ abstract: We report our experience using PRISM, a leading quantitative verificat
 summary: This was my first Systems research work where I characterized the performance of NoSQL under hybrid analytical/transactional workload, and demonstrated the challanges of building analytical models of real-world systems
 
 tags:
-- Source Themes
+# - Source Themes
 featured: true
 
 links:
-# - name: Link
-#  url: https://link.springer.com/chapter/10.1007%2F978-3-030-02227-3_7
+ - name: Link
+  url: https://link.springer.com/chapter/10.1007%2F978-3-030-02227-3_7
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-# url_slides: ''
+# url_slides: '/isstaif_mphil_dissertation_slides.pdf'
 # url_source: '#'
 # url_video: '#'
 
@@ -62,12 +62,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-# {{% alert note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to #import publication metadata into their reference management software.
-# {{% /alert %}}
-
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-

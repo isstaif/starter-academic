@@ -2,11 +2,11 @@
 title: "Request Reconstruction in MirageOS Unikernels"
 authors:
 - admin
-date: "2018-10-01T00:00:00Z"
+date: "2019-6-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-6-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,20 +25,20 @@ abstract: Distributed tracing techniques have proven to provide an extremely use
 summary: In my MPhil thesis project, I developed a prorotype of a distributed tracing model for MirageOS unikernel. I identified the essential design dimensions and implementation challenges for the unique single-threaded architecture of MirageOS based single address space and lightweight threads (promises).
 
 tags:
-- Source Themes
+# - Source Themes
 featured: true
 
 links:
 # - name: Custom Link
 #  url: http://example.org
 url_pdf: /isstaif_mphil_dissertation.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+url_slides: '/isstaif_mphil_dissertation_slides.pdf'
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,14 +62,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-# {{% alert note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to #import publication metadata into their reference management software.
-# {{% /alert %}}
-
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

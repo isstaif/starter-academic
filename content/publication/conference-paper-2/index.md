@@ -2,7 +2,7 @@
 title: "Self-managed services using MirageOS unikernels"
 authors:
 - admin
-date: "2018-10-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +24,7 @@ abstract: Next generation service-based systems will become increasingly finer-g
 summary: A position paper highlighting the key ideas behind the general approach of my PhD proposal which is based on the combination of distributed tracing and unikernels. In particular, I explain the importance of distributed for reactive autoscaling, and the unique architecture of unikernels in the spectrum of lightweight virtualization techniques.
 
 tags:
-- Source Themes
+# - Source Themes
 featured: true
 
 links:
@@ -61,12 +61,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-# {{% alert note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to #import publication metadata into their reference management software.
-# {{% /alert %}}
-
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-

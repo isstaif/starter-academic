@@ -14,7 +14,9 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed tracing, microservices and lightweight virtualization.
+bio: PhD student at the Systems Research Group, University of Cambridge. My research interests include distributed tracing, cloud resource management and lightweight virtualization.
+
+
 
 interests:
 - Cloud and Edge Computing
