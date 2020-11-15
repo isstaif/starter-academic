@@ -30,7 +30,9 @@ tags:
 featured: true
 
 links:
- - name: Link
+
+links:
+- name: Link
   url: https://link.springer.com/chapter/10.1007%2F978-3-030-02227-3_7
 # url_code: '#'
 # url_dataset: '#'
