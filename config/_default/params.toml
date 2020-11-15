@@ -26,7 +26,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "S"
+font_size = "L"
 
 ############################
 ## Basic Info
@@ -101,7 +101,7 @@ address = {street = "15 JJ Thompson Avenue", city = "Cambridge",region = "CA", p
 coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "FN07"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
