@@ -1,8 +1,7 @@
 ---
-title: "Performance Model of Apache Cassandra Under Heterogeneous Workload Using the Quantitative Verification Approach"
+title: "Self-managed services using MirageOS unikernels"
 authors:
 - admin
-- Nizar Alhafez 
 date: "2018-10-01T00:00:00Z"
 doi: ""
 
@@ -16,11 +15,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Middleware 2020 Doctoral Symposium*
+publication_short: In *MiddlewareDW 20*
 
-abstract: We report our experience using PRISM, a leading quantitative verification engine, to formulate a performance model of Apache Cassandra, a popular NoSQL database, under a simple form of hybrid operational/analytical workload, since such heterogeneous workloads have shown to have significant implications for the deployment and elastic strategies of these databases. Some current literature suggest that, compared to classical performance modelling tools, quantitative verification provides a more rigorous analysis framework. We aim to explore the effectiveness and applicability of this approach in practice which we identify as relevant to our use case. We present a partial model of a single Cassandra node that predicts its maximum throughput under various system and workload parameters and validate this model experimentally. Furthermore, we show the limitations of extending this model using PRISM to address other interesting properties, identifying the need for scalable analytical modelling approaches for realistic highly concurrent systems under heterogeneous workloads. 
-
+abstract: Next generation service-based systems will become increasingly finer-grain, larger-scale with heterogeneous performance characteristics. These services will need to be orchestrated across multiple IT infrastructures with applicationspecific auto-scaling capabilities to self-adapt to workload and environment changes. Today's generic autoscalers fail to address the adaptation needs of such systems and current methods for developing effectively application-aware autoscalers require substantial efforts and are far from practical. In this PhD project, I propose that distributed tracing alongside library operating systems (unikernels) can provide a cost-effective alternative approach to build self-scaling services. Such services will embody their own auto-scaling systems that are both generic and application-aware.
 
 # Summary. An optional shortened abstract.
 summary: 
