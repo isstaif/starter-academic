@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I’m a first year PhD student in the [Systems Research Group (SRG)](https://www.cl.cam.ac.uk/research/srg/) at the Department of Computer Science and Technology (also known as "The Computer Lab"), under the supervision of [Professor Richard Mortier](https://mort.io/). I am a member of Clare College. 
+I am a first year PhD student in the [Systems Research Group (SRG)](https://www.cl.cam.ac.uk/research/srg/) at the Department of Computer Science and Technology (also known as "The Computer Lab"), working under the supervision of Professor [Richard Mortier](https://mort.io/). I am a member of [Clare College](http://www.clare.cam.ac.uk/Home/). 
 
 The focus of my research is on building self-scaling network services on top of next generation infrastructure (IoT/5G/edge), leveraging lightweight virtualization techniques and distributed tracing. My work falls under the [Compute First Networking](https://www.cl.cam.ac.uk/research/srg/projects/cfn/) research project, which is a collaboration between Huawei, BT, and the SRG.
 
