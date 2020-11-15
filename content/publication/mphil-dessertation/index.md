@@ -12,7 +12,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["8"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: ACS MPhil dissertation
@@ -22,16 +22,16 @@ abstract: Distributed tracing techniques have proven to provide an extremely use
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: In my MPhil thesis project, I developed a prorotype of a distributed tracing model for MirageOS unikernel. I identified the essential design dimensions and implementation challenges for the unique single-threaded architecture of MirageOS based single address space and lightweight threads (promises).
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+# - name: Custom Link
+#  url: http://example.org
+url_pdf: /isstaif_mphil_dissertation.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -63,13 +63,13 @@ projects:
 slides: example
 ---
 
-#{{% alert note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to #import publication metadata into their reference management software.
-#{{% /alert %}}
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to #import publication metadata into their reference management software.
+# {{% /alert %}}
 
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
 # Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
