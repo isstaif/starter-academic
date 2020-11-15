@@ -2,7 +2,7 @@
 title: "Request Reconstruction in MirageOS Unikernels"
 authors:
 - admin
-date: "2019-6-01T00:00:00Z"
+date: "2019-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,11 +32,12 @@ links:
 # - name: Custom Link
 #  url: http://example.org
 url_pdf: /isstaif_mphil_dissertation.pdf
+url_slides: /isstaif_mphil_dissertation_slides.pdf
+
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-url_slides: '/isstaif_mphil_dissertation_slides.pdf'
 # url_source: '#'
 # url_video: '#'
 
