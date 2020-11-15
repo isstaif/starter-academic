@@ -88,12 +88,13 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "aati2@cam.ac.uk"
+email = "aati2 [at] cam [dot] ac [dot] uk"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "15 JJ Thompson Avenue", city = "Cambridge", postcode = "CB3 0FD", country = "United Kingdom", country_code = "UK"}
+address = {street = "15 JJ Thompson Avenue", city = "Cambridge",region = "CA", postcode = "CB3 0FD", country = "United Kingdom", country_code = "UK"}
+
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
