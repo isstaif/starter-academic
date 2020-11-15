@@ -17,10 +17,11 @@ organizations:
 bio: My research interests include distributed tracing, microservices and lightweight virtualization.
 
 interests:
-- Cloud Computing
-- Network Applications
-- Distributed Systems 
-- Systems for ML
+- Cloud and Edge Computing
+- Microservices and Serverless
+- Operating Systems and Middleware
+- Networked and Distributed Systems 
+- Machine Learning Systems
 
 education:
   courses:
@@ -30,7 +31,7 @@ education:
   - course: MSc in Big Data Systems
     institution: HIAST Syria
     year: 2018
-  - course: BSc in Information Technology Engineering
+  - course: BEng in Information Technology 
     institution: Damascus University
     year: 2014
 
@@ -75,10 +76,10 @@ user_groups:
 
 I’m a first year PhD student in the [Systems Research Group (SRG)](https://www.cl.cam.ac.uk/research/srg/) at the Department of Computer Science and Technology (also known as "The Computer Lab"), under the supervision of [Professor Richard Mortier](https://mort.io/). I am a member of Clare College. 
 
-The focus of my research is on building self-scaling network services on next generation infrastructure (IoT/5G/edge), leveraging lightweight virtualization techniques and distributed tracing. My work falls under the [Compute First Networking](https://www.cl.cam.ac.uk/research/srg/projects/cfn/), which is a collaboration between Huawei, BT, and the SRG.
+The focus of my research is on building self-scaling network services on top of next generation infrastructure (IoT/5G/edge), leveraging lightweight virtualization techniques and distributed tracing. My work falls under the [Compute First Networking](https://www.cl.cam.ac.uk/research/srg/projects/cfn/) research project, which is a collaboration between Huawei, BT, and the SRG.
 
-In 2018, I was awarded the [Said Foundation Cambridge Scholarship ](https://www.cambridgetrust.org/partners/said-foundation), to complete the MPhil in Advanced Computer Science. Before joining the Computer Lab, I co-founded several projects for empowering engineering students in Syria. including the award-winning education enterprise: [Wikilogia](https://wikilogia.org/en). 
+In 2018, I was awarded the [Said Foundation Cambridge Scholarship ](https://www.cambridgetrust.org/partners/said-foundation), to study the MPhil in Advanced Computer Science (ACS). Before joining the Computer Lab, I co-founded several projects for empowering engineering students in Syria, including the award-winning education enterprise: [Wikilogia](https://wikilogia.org/en). 
 
-I am interested in the convergence of the IT and teclcom worlds, and the the role of cloud-native and open source in shaping the future of cloud and network infrastructure. I am also interested in entrepreneurship and the role of digital  infrastructure in addressing development and sustainablity challenges across the globe.
+I am interested in the convergence of the IT and teclcom worlds, as well as the the role of the cloud-native and open source movements in shaping the future of cloud and network infrastructure. I have deep passion for social entrepreneurship and the role of digital infrastructure in addressing development and sustainablity challenges across the globe.
 
 
